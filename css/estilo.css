@@ -1,4 +1,10 @@
 body{
     background-color:rgb(252, 0, 197);
+
     color:black;
+}
+
+h1{
+    font-size: 5em;
+    color:aliceblue;
 }
